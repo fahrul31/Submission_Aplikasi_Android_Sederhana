@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title">Destinasi Impian</string>
+    <string name="sub_title">Temukan Pesona Tak Terlupakan dari Nama Destinasi Wisata</string>
+    <string name="destinations_name">Nama Destinasi Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="btn_detail">Detail</string>
+    <string-array name="data_name">
+        <item>Bali</item>
+        <item>Lombok</item>
+        <item>Raja Ampat</item>
+        <item>Nusa Penida</item>
+        <item>Taman Nasional Komodo</item>
+        <item>Candi Borobudur</item>
+        <item>Danau Toba</item>
+        <item>Wakatobi</item>
+        <item>Gunung Bromo</item>
+        <item>Kepulauan Derawan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Tempat wisata terbaik di Indonesia pertama yang juga sudah terkenal di dunia adalah Pulau Bali. Terletak di sebelah timur Pulau Jawa, Bali adalah primadona pariwisata Indonesia yang sudah terkenal hampir ke seluruh penjuru dunia.\n\nSelain terkenal dengan keindahan alamnya, terutama pantainya, Bali juga terkenal dengan kesenian dan budayanya yang unik dan menarik, seperti: Tari Kecak, Tari Barong, Kumpulan para monyet, dan yang lainnya.</item>
+        <item>Lombok menjadi daya tarik wisata yang tak kalah eksotis dari Bali sebagai salah satu tempat wisata terbaik di Indonesia. Jajaran pantai, gugusan pulau kecil, kemegahan gunung Rinjani, dan kehidupan laut yang spektakuler untuk dijelajahi, pulau Lombok menjadi paket lengkap untuk berlibur di kawasan Nusa Tenggara Barat.\n\nDi Lombok wisatawan juga bisa mengunjungi desa-desa tradisional dan berbaur dengan penduduk asli suku Sasak. Disini wisatawan bisa merasakan langsung kehidupan sehari-hari mereka di desa tenun Sade dan Rambitan.</item>
+        <item>Raja Ampat mulai dikenal sebagai surga tersembunyi di Timur Indonesia. Raja Ampat merupakan kepulauan yang terdiri dari lebih dari 1.500 pulau kecil, gundukan pasir, dan beting yang mengelilingi empat pulau utama yaitu Waigeo, Batanta, Salawati, dan Misool.\n\nNama Raja Ampat sendiri diyakini berasal dari legenda di mana seorang wanita menemukan tujuh telur, dengan empat di antaranya menetas dan menjadi raja dari empat pulau utama, sementara tiga lainnya menjadi seorang wanita, hantu, dan batu.</item>
+        <item>Salah satu tempat wisata terbaik di Indonesia dai Pulau Bali adalah Nusa Penida. Nusa Penida sekarang tentunya sangat banyak diminati wisatawan. Apalagi dengan keindahan yang ditawarkan oleh Nusa Penida dengan berbagai pantai uniknya. Tidak salah bila Nusa Penida menjadi salah satu destinasi yang paling ramai dikunjungi wisatawan.</item>
+        <item>Terletak di antara pulau Sumbawa dan Flores di provinsi Nusa Tenggara Timur, Pulau Komodo menjadi Taman Nasional Komodo, kadal terbesar di dunia yang hanya dapat ditemui di wilayah ini. Pada tahun 1986, Taman Nasional Komodo ditetapkan sebagai Situs Warisan Dunia dan Cagar Manusia serta Biosfer oleh UNESCO.\n\nTaman Nasional Komodo meliputi total 29 pulau vulkanik termasuk 3 pulau utama Rinca, Padar dan Komodo. Salah satu tempat wisata terbaik di Indonesia ini merupakan rumah bagi sekitar 2.500 Naga Komodo dan fauna darat lainnya.</item>
+        <item>Candi Borobudur telah lama menjadi kebanggaan Indonesia. Candi Borobudur merupakan monumen Budha terbesar di dunia, sebuah situs kuno yang secara luas dianggap sebagai salah satu dari tujuh keajaiban dunia. Borobudur dibangun ada abad ke-9 pada masa pemerintahan dinasti Syailendra.\n\nCandi Borobudur dihiasi dengan 2.672 panel relief dan 504 patung Buddha. Arsitektur dan batu candi ini tidak ada bandingannya. Salah satu tempat wisata terbaik di Indonesia ini dihiasi dengan ukiran batu di relief yang mewakili gambar dari kehidupan Buddha. Komentator mengklaim bahwa ini adalah ansambel relief Buddha terbesar dan terlengkap di dunia, yang tak tertandingi dalam artistik.</item>
+        <item>Danau Toba merupakan danau terbesar di Asia Tenggara dan salah satu danau terdalam di dunia. Danau kawah besar ini memiliki sebuah pulau hampir seukuran Singapura di tengahnya yaitu pulau Samosir. Pulau Samosir menjadi destinasi untuk belajar sejarah, seperti kuburan batu dan desa tradisional.\n\nSalah satu tempat wisata terbaik di Indonesia ini berada di ketinggian 900 meter di atas permukaan laut memiliki iklim sejuk, jauh dari panas, kelembaban, dan polusi kota. Pada akhir tahun warga sekitar biasa menggelar Festival Danau Toba. Festival ini event budaya, pariwisata dan olahraga.</item>
+        <item>Kabupaten Wakatobi telah ditetapkan sebagai Taman Laut Nasional. Wakatobi memiliki total 1,4 juta hektar, 900.000 hektar di antaranya dihiasi dengan berbagai jenis spesies terumbu karang tropis. Wakatobi dikenal secara luas memiliki jumlah spesies terumbu dan ikan tertinggi di dunia.\n\nWakatobi menjadi pusat penyelaman yang menawarkan pengalaman tak terlupakan. Ada lebih dari 50 situs menyelam spektakuler yang mudah diakses dari pulau-pulau utama. Wakatobi sendiri dikatakan memiliki 942 spesies ikan dan 750 spesies terumbu karang dari total 850 koleksi dunia.</item>
+        <item>Wisata Gunung Bromo tentunya tidak boleh dilupakan sebagai tempat wisata terbaik di Indonesia. Gunung Bromo masih berada dalam satu kawasan Taman Nasional Bromo Tengger Semeru. Tak berbeda jauh dengan pemandangan Gunung Semeru yang indah, Bromo menyajikan pemandangan sunrise dan padang pasirnya yang sangat luas.</item>
+        <item>Kepulauan Derawan yang terletak di Kabupaten Berau, Kalimantan Timur merupakan gugusan pulau yang keindahannya sudah memikat dunia internasional. Salah satu objek wisata yang paling terkenal di kepulauan Derawan adalah spesies ubur-ubur yang tidak berbahaya. Banyak wisatawan lokal maupun luar negeri yang berbondong-bondong untuk menikmati keindahan ubur-ubur ini.\n\nPemandangan baik di daratan maupun pemandangan di bawah laut kepulauan derawan ini benar-benar sangat mengagumkan. Pantai dengan pasir putih dan lautan yang biru dan sangat jernih sehingga menjadi lokasi diving yang sangat populer saat ini baik untuk penyelam lokal maupun penyelam dari laur negeri. Dengan memiliki lebih dari 30 gugusan pulau yang begitu indah membuat atensi wisatawan semakin hari semakin besar kepada Kepulauan Derawan ini.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/1024px-TanahLot_2014.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/I%27ll_sail_the_boat_with_you.jpg/1024px-I%27ll_sail_the_boat_with_you.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg/1024px-Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kelingking_Beach%2C_Nusa_Penida.jpg/1024px-Kelingking_Beach%2C_Nusa_Penida.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipM4tJAhA2sCNF1otbtu6Q6NdYwejve_I5NiGCJk=s680-w680-h510</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/77/Stupa_Borobudur.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg/1024px-Indonesia_-_Lake_Toba_%2826224127503%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wakatobi_beach_2006.jpg/1024px-Wakatobi_beach_2006.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg/1024px-Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4e/Derawan_Island_East_Kalimantan.jpg</item>
+    </string-array>
+    <string-array name="data_address">
+        <item>Jl. Pantai Kuta, Kuta, Kabupaten Badung, Bali</item>
+        <item>Jl. Raya Senggigi, Batu Layar, Senggigi, Kabupaten Lombok Barat, Nusa Tenggara Barat</item>
+        <item>Jl. Raya Saleo, Waisai, Raja Ampat, Papua Barat</item>
+        <item>Desa Bunga Mekar, Nusa Penida, Klungkung, Bali</item>
+        <item>Komodo, Manggarai Barat, Nusa Tenggara Timur</item>
+        <item>Jl. Badrawati, Borobudur, Magelang, Jawa Tengah</item>
+        <item>Jl. Danau Toba No.1, Parapat, Kabupaten Simalungun, Sumatera Utara</item>
+        <item>Jl. H. A. Bastari, Wakatobi, Sulawesi Tenggara</item>
+        <item>Desa Ngadisari, Probolinggo, Jawa Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+    </string-array>
+    <string-array name="data_opening_hours">
+        <item>Setiap hari, 08.00 - 18.00</item>
+        <item>Senin - Jumat, 09.00 - 17.00</item>
+        <item>Setiap hari, 07.00 - 17.00</item>
+        <item>Setiap hari, 06.00 - 18.00</item>
+        <item>Setiap hari, 08.00 - 16.00</item>
+        <item>Setiap hari, 06.00 - 17.00</item>
+        <item>Setiap hari, 08.00 - 20.00</item>
+        <item>Setiap hari, 09.00 - 16.00</item>
+        <item>Setiap hari, 24 jam</item>
+        <item>Setiap hari, 07.00 - 17.00</item>
+    </string-array>
+    <string name="address">Alamat :</string>
+    <string name="dummy_address">Jl. Badrawati, Borobudur, Magelang, Jawa Tengah</string>
+    <string name="dummy_description">Tempat wisata terbaik di Indonesia pertama yang juga sudah terkenal di dunia adalah Pulau Bali. Terletak di sebelah timur Pulau Jawa, Bali adalah primadona pariwisata Indonesia yang sudah terkenal hampir ke seluruh penjuru dunia.\n\nSelain terkenal dengan keindahan alamnya, terutama pantainya, Bali juga terkenal dengan kesenian dan budayanya yang unik dan menarik, seperti: Tari Kecak, Tari Barong, Kumpulan para monyet, dan yang lainnya.</string>
+    <string name="open_hours">Waktu buka :</string>
+    <string name="dummy_open_hours">Setiap hari, 06.00 - 17.00</string>
+    <string name="nama">Muh. Fachrul Hidayat</string>
+    <string name="gmail">fahrulhidayat73@gmail.com</string>
+    <string name="share">Bagikan</string>
+    <string name="content_desc">content</string>
+</resources>
